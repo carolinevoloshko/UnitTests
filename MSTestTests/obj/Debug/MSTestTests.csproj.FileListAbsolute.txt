@@ -1,0 +1,16 @@
+C:\Users\Karolina_Voloshko\Documents\Visual Studio 2015\Projects\ConsoleApplication1\MSTestTests\bin\Debug\MSTestTests.dll
+C:\Users\Karolina_Voloshko\Documents\Visual Studio 2015\Projects\ConsoleApplication1\MSTestTests\bin\Debug\MSTestTests.pdb
+C:\Users\Karolina_Voloshko\Documents\Visual Studio 2015\Projects\ConsoleApplication1\MSTestTests\bin\Debug\Calculator1.dll
+C:\Users\Karolina_Voloshko\Documents\Visual Studio 2015\Projects\ConsoleApplication1\MSTestTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Karolina_Voloshko\Documents\Visual Studio 2015\Projects\ConsoleApplication1\MSTestTests\obj\Debug\MSTestTests.csprojResolveAssemblyReference.cache
+C:\Users\Karolina_Voloshko\Documents\Visual Studio 2015\Projects\ConsoleApplication1\MSTestTests\obj\Debug\MSTestTests.dll
+C:\Users\Karolina_Voloshko\Documents\Visual Studio 2015\Projects\ConsoleApplication1\MSTestTests\obj\Debug\MSTestTests.pdb
+D:\UnitTests-master-956c1256deebcebdb89b90eac25dbc3eaa740b1d\MSTestTests\bin\Debug\MSTestTests.dll
+D:\UnitTests-master-956c1256deebcebdb89b90eac25dbc3eaa740b1d\MSTestTests\bin\Debug\MSTestTests.pdb
+D:\UnitTests-master-956c1256deebcebdb89b90eac25dbc3eaa740b1d\MSTestTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\UnitTests-master-956c1256deebcebdb89b90eac25dbc3eaa740b1d\MSTestTests\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+D:\UnitTests-master-956c1256deebcebdb89b90eac25dbc3eaa740b1d\MSTestTests\obj\Debug\MSTestTests.csprojAssemblyReference.cache
+D:\UnitTests-master-956c1256deebcebdb89b90eac25dbc3eaa740b1d\MSTestTests\obj\Debug\MSTestTests.csproj.CoreCompileInputs.cache
+D:\UnitTests-master-956c1256deebcebdb89b90eac25dbc3eaa740b1d\MSTestTests\obj\Debug\MSTestTests.csproj.CopyComplete
+D:\UnitTests-master-956c1256deebcebdb89b90eac25dbc3eaa740b1d\MSTestTests\obj\Debug\MSTestTests.dll
+D:\UnitTests-master-956c1256deebcebdb89b90eac25dbc3eaa740b1d\MSTestTests\obj\Debug\MSTestTests.pdb

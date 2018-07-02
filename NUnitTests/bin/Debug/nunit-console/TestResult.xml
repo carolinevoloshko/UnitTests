@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<test-run id="2" testcasecount="19" result="Passed" total="19" passed="19" failed="0" inconclusive="0" skipped="0" asserts="19" engine-version="3.8.0.0" clr-version="4.0.30319.42000" start-time="2018-07-02 15:01:17Z" end-time="2018-07-02 15:01:18Z" duration="1.222117">
+  <command-line><![CDATA[nunit3-console.exe  D:\UnitTests-master-956c1256deebcebdb89b90eac25dbc3eaa740b1d\NUnitTests\bin\Debug\NUnitTests.dll --workers=5]]></command-line>
+  <test-suite type="Assembly" id="0-1029" name="NUnitTests.dll" fullname="D:\UnitTests-master-956c1256deebcebdb89b90eac25dbc3eaa740b1d\NUnitTests\bin\Debug\NUnitTests.dll" runstate="Runnable" testcasecount="19" result="Passed" start-time="2018-07-02 15:01:18Z" end-time="2018-07-02 15:01:18Z" duration="0.086549" total="19" passed="19" failed="0" warnings="0" inconclusive="0" skipped="0" asserts="19">
+    <environment framework-version="3.10.1.0" clr-version="4.0.30319.42000" os-version="Microsoft Windows NT 6.1.7601.65536" platform="Win32NT" cwd="D:\UnitTests-master-956c1256deebcebdb89b90eac25dbc3eaa740b1d\NUnitTests\bin\Debug\nunit-console" machine-name="HOMEPC" user="Vano" user-domain="HomePC" culture="be-BY" uiculture="ru-RU" os-architecture="x64" />
+    <settings>
+      <setting name="DisposeRunners" value="True" />
+      <setting name="WorkDirectory" value="D:\UnitTests-master-956c1256deebcebdb89b90eac25dbc3eaa740b1d\NUnitTests\bin\Debug\nunit-console" />
+      <setting name="NumberOfTestWorkers" value="5" />
+      <setting name="ImageRuntimeVersion" value="4.0.30319" />
+      <setting name="ImageTargetFrameworkName" value=".NETFramework,Version=v4.5.2" />
+      <setting name="ImageRequiresX86" value="False" />
+      <setting name="ImageRequiresDefaultAppDomainAssemblyResolver" value="False" />
+    </settings>
+    <properties>
+      <property name="LevelOfParallelism" value="3" />
+      <property name="_PID" value="5872" />
+      <property name="_APPDOMAIN" value="domain-" />
+    </properties>
+    <test-suite type="TestSuite" id="0-1030" name="NUnitTests" fullname="NUnitTests" runstate="Runnable" testcasecount="19" result="Passed" start-time="2018-07-02 15:01:18Z" end-time="2018-07-02 15:01:18Z" duration="0.061639" total="19" passed="19" failed="0" warnings="0" inconclusive="0" skipped="0" asserts="19">
+      <test-suite type="TestFixture" id="0-1006" name="TestMultiplyMethod" fullname="NUnitTests.TestMultiplyMethod" classname="NUnitTests.TestMultiplyMethod" runstate="Runnable" testcasecount="5" result="Passed" start-time="2018-07-02 15:01:18Z" end-time="2018-07-02 15:01:18Z" duration="0.055785" total="5" passed="5" failed="0" warnings="0" inconclusive="0" skipped="0" asserts="5">
+        <properties>
+          <property name="ParallelScope" value="Self" />
+        </properties>
+        <test-suite type="ParameterizedMethod" id="0-1012" name="TestMultiply" fullname="NUnitTests.TestMultiplyMethod.TestMultiply" classname="NUnitTests.TestMultiplyMethod" runstate="Runnable" testcasecount="5" result="Passed" start-time="2018-07-02 15:01:18Z" end-time="2018-07-02 15:01:18Z" duration="0.043498" total="5" passed="5" failed="0" warnings="0" inconclusive="0" skipped="0" asserts="5">
+          <test-case id="0-1007" name="TestMultiply(1.3d,2.5d,3.25d)" fullname="NUnitTests.TestMultiplyMethod.TestMultiply(1.3d,2.5d,3.25d)" methodname="TestMultiply" classname="NUnitTests.TestMultiplyMethod" runstate="Runnable" seed="1146212455" result="Passed" start-time="2018-07-02 15:01:18Z" end-time="2018-07-02 15:01:18Z" duration="0.034722" asserts="1">
+            <output><![CDATA[Base Initialize
+BaseCleanUp
+]]></output>
+          </test-case>
+          <test-case id="0-1008" name="TestMultiply(1,2,2)" fullname="NUnitTests.TestMultiplyMethod.TestMultiply(1,2,2)" methodname="TestMultiply" classname="NUnitTests.TestMultiplyMethod" runstate="Runnable" seed="1559038002" result="Passed" start-time="2018-07-02 15:01:18Z" end-time="2018-07-02 15:01:18Z" duration="0.000241" asserts="1">
+            <output><![CDATA[Base Initialize
+BaseCleanUp
+]]></output>
+          </test-case>
+          <test-case id="0-1009" name="TestMultiply(-1,2,-2)" fullname="NUnitTests.TestMultiplyMethod.TestMultiply(-1,2,-2)" methodname="TestMultiply" classname="NUnitTests.TestMultiplyMethod" runstate="Runnable" seed="2040937244" result="Passed" start-time="2018-07-02 15:01:18Z" end-time="2018-07-02 15:01:18Z" duration="0.000161" asserts="1">
+            <output><![CDATA[Base Initialize
+BaseCleanUp
+]]></output>
+          </test-case>
+          <test-case id="0-1010" name="TestMultiply(0,2,0)" fullname="NUnitTests.TestMultiplyMethod.TestMultiply(0,2,0)" methodname="TestMultiply" classname="NUnitTests.TestMultiplyMethod" runstate="Runnable" seed="1417993383" result="Passed" start-time="2018-07-02 15:01:18Z" end-time="2018-07-02 15:01:18Z" duration="0.000165" asserts="1">
+            <output><![CDATA[Base Initialize
+BaseCleanUp
+]]></output>
+          </test-case>
+          <test-case id="0-1011" name="TestMultiply(0,-1,0)" fullname="NUnitTests.TestMultiplyMethod.TestMultiply(0,-1,0)" methodname="TestMultiply" classname="NUnitTests.TestMultiplyMethod" runstate="Runnable" seed="507791775" result="Passed" start-time="2018-07-02 15:01:18Z" end-time="2018-07-02 15:01:18Z" duration="0.000161" asserts="1">
+            <output><![CDATA[Base Initialize
+BaseCleanUp
+]]></output>
+          </test-case>
+        </test-suite>
+      </test-suite>
+      <test-suite type="TestFixture" id="0-1000" name="TestAdditionMethod" fullname="NUnitTests.TestAdditionMethod" classname="NUnitTests.TestAdditionMethod" runstate="Runnable" testcasecount="4" result="Passed" start-time="2018-07-02 15:01:18Z" end-time="2018-07-02 15:01:18Z" duration="0.056591" total="4" passed="4" failed="0" warnings="0" inconclusive="0" skipped="0" asserts="4">
+        <properties>
+          <property name="ParallelScope" value="Self" />
+        </properties>
+        <test-suite type="ParameterizedMethod" id="0-1005" name="TestAddition" fullname="NUnitTests.TestAdditionMethod.TestAddition" classname="NUnitTests.TestAdditionMethod" runstate="Runnable" testcasecount="4" result="Passed" start-time="2018-07-02 15:01:18Z" end-time="2018-07-02 15:01:18Z" duration="0.044443" total="4" passed="4" failed="0" warnings="0" inconclusive="0" skipped="0" asserts="4">
+          <test-case id="0-1001" name="TestAddition(1.3d,2.5d,3.8d)" fullname="NUnitTests.TestAdditionMethod.TestAddition(1.3d,2.5d,3.8d)" methodname="TestAddition" classname="NUnitTests.TestAdditionMethod" runstate="Runnable" seed="225238514" result="Passed" start-time="2018-07-02 15:01:18Z" end-time="2018-07-02 15:01:18Z" duration="0.035484" asserts="1">
+            <output><![CDATA[Base Initialize
+BaseCleanUp
+]]></output>
+          </test-case>
+          <test-case id="0-1002" name="TestAddition(1,2,3)" fullname="NUnitTests.TestAdditionMethod.TestAddition(1,2,3)" methodname="TestAddition" classname="NUnitTests.TestAdditionMethod" runstate="Runnable" seed="1415394041" result="Passed" start-time="2018-07-02 15:01:18Z" end-time="2018-07-02 15:01:18Z" duration="0.000275" asserts="1">
+            <output><![CDATA[Base Initialize
+BaseCleanUp
+]]></output>
+          </test-case>
+          <test-case id="0-1003" name="TestAddition(-1,-2,-3)" fullname="NUnitTests.TestAdditionMethod.TestAddition(-1,-2,-3)" methodname="TestAddition" classname="NUnitTests.TestAdditionMethod" runstate="Runnable" seed="88270820" result="Passed" start-time="2018-07-02 15:01:18Z" end-time="2018-07-02 15:01:18Z" duration="0.000150" asserts="1">
+            <output><![CDATA[Base Initialize
+BaseCleanUp
+]]></output>
+          </test-case>
+          <test-case id="0-1004" name="TestAddition(-1,2,1)" fullname="NUnitTests.TestAdditionMethod.TestAddition(-1,2,1)" methodname="TestAddition" classname="NUnitTests.TestAdditionMethod" runstate="Runnable" seed="1944047256" result="Passed" start-time="2018-07-02 15:01:18Z" end-time="2018-07-02 15:01:18Z" duration="0.000145" asserts="1">
+            <output><![CDATA[Base Initialize
+BaseCleanUp
+]]></output>
+          </test-case>
+        </test-suite>
+      </test-suite>
+      <test-suite type="TestFixture" id="0-1019" name="TestSqrtMethod" fullname="NUnitTests.TestSqrtMethod" classname="NUnitTests.TestSqrtMethod" runstate="Runnable" testcasecount="3" result="Passed" start-time="2018-07-02 15:01:18Z" end-time="2018-07-02 15:01:18Z" duration="0.056310" total="3" passed="3" failed="0" warnings="0" inconclusive="0" skipped="0" asserts="3">
+        <properties>
+          <property name="ParallelScope" value="Self" />
+        </properties>
+        <test-suite type="ParameterizedMethod" id="0-1023" name="TestSqrt" fullname="NUnitTests.TestSqrtMethod.TestSqrt" classname="NUnitTests.TestSqrtMethod" runstate="Runnable" testcasecount="3" result="Passed" start-time="2018-07-02 15:01:18Z" end-time="2018-07-02 15:01:18Z" duration="0.044241" total="3" passed="3" failed="0" warnings="0" inconclusive="0" skipped="0" asserts="3">
+          <test-case id="0-1020" name="TestSqrt(9,3)" fullname="NUnitTests.TestSqrtMethod.TestSqrt(9,3)" methodname="TestSqrt" classname="NUnitTests.TestSqrtMethod" runstate="Runnable" seed="917892239" result="Passed" start-time="2018-07-02 15:01:18Z" end-time="2018-07-02 15:01:18Z" duration="0.032143" asserts="1">
+            <output><![CDATA[Base Initialize
+BaseCleanUp
+]]></output>
+          </test-case>
+          <test-case id="0-1021" name="TestSqrt(0,0)" fullname="NUnitTests.TestSqrtMethod.TestSqrt(0,0)" methodname="TestSqrt" classname="NUnitTests.TestSqrtMethod" runstate="Runnable" seed="897945629" result="Passed" start-time="2018-07-02 15:01:18Z" end-time="2018-07-02 15:01:18Z" duration="0.000155" asserts="1">
+            <output><![CDATA[Base Initialize
+BaseCleanUp
+]]></output>
+          </test-case>
+          <test-case id="0-1022" name="TestSqrt(0,0)" fullname="NUnitTests.TestSqrtMethod.TestSqrt(0,0)" methodname="TestSqrt" classname="NUnitTests.TestSqrtMethod" runstate="Runnable" seed="1098840109" result="Passed" start-time="2018-07-02 15:01:18Z" end-time="2018-07-02 15:01:18Z" duration="0.000210" asserts="1">
+            <output><![CDATA[Base Initialize
+BaseCleanUp
+]]></output>
+          </test-case>
+        </test-suite>
+      </test-suite>
+      <test-suite type="TestFixture" id="0-1024" name="TestSubMethod" fullname="NUnitTests.TestSubMethod" classname="NUnitTests.TestSubMethod" runstate="Runnable" testcasecount="3" result="Passed" start-time="2018-07-02 15:01:18Z" end-time="2018-07-02 15:01:18Z" duration="0.056457" total="3" passed="3" failed="0" warnings="0" inconclusive="0" skipped="0" asserts="3">
+        <properties>
+          <property name="ParallelScope" value="Self" />
+        </properties>
+        <test-suite type="ParameterizedMethod" id="0-1028" name="TestSub" fullname="NUnitTests.TestSubMethod.TestSub" classname="NUnitTests.TestSubMethod" runstate="Runnable" testcasecount="3" result="Passed" start-time="2018-07-02 15:01:18Z" end-time="2018-07-02 15:01:18Z" duration="0.044571" total="3" passed="3" failed="0" warnings="0" inconclusive="0" skipped="0" asserts="3">
+          <test-case id="0-1025" name="TestSub(10,2,8)" fullname="NUnitTests.TestSubMethod.TestSub(10,2,8)" methodname="TestSub" classname="NUnitTests.TestSubMethod" runstate="Runnable" seed="347333853" result="Passed" start-time="2018-07-02 15:01:18Z" end-time="2018-07-02 15:01:18Z" duration="0.035865" asserts="1">
+            <output><![CDATA[Base Initialize
+BaseCleanUp
+]]></output>
+          </test-case>
+          <test-case id="0-1026" name="TestSub(-1,-2,1)" fullname="NUnitTests.TestSubMethod.TestSub(-1,-2,1)" methodname="TestSub" classname="NUnitTests.TestSubMethod" runstate="Runnable" seed="529316907" result="Passed" start-time="2018-07-02 15:01:18Z" end-time="2018-07-02 15:01:18Z" duration="0.000143" asserts="1">
+            <output><![CDATA[Base Initialize
+BaseCleanUp
+]]></output>
+          </test-case>
+          <test-case id="0-1027" name="TestSub(0,2,-2)" fullname="NUnitTests.TestSubMethod.TestSub(0,2,-2)" methodname="TestSub" classname="NUnitTests.TestSubMethod" runstate="Runnable" seed="1227593717" result="Passed" start-time="2018-07-02 15:01:18Z" end-time="2018-07-02 15:01:18Z" duration="0.000156" asserts="1">
+            <output><![CDATA[Base Initialize
+BaseCleanUp
+]]></output>
+          </test-case>
+        </test-suite>
+      </test-suite>
+      <test-suite type="TestFixture" id="0-1013" name="TestSinMethod" fullname="NUnitTests.TestSinMethod" classname="NUnitTests.TestSinMethod" runstate="Runnable" testcasecount="4" result="Passed" start-time="2018-07-02 15:01:18Z" end-time="2018-07-02 15:01:18Z" duration="0.057717" total="4" passed="4" failed="0" warnings="0" inconclusive="0" skipped="0" asserts="4">
+        <properties>
+          <property name="ParallelScope" value="Self" />
+        </properties>
+        <test-suite type="ParameterizedMethod" id="0-1018" name="TestSin" fullname="NUnitTests.TestSinMethod.TestSin" classname="NUnitTests.TestSinMethod" runstate="Runnable" testcasecount="4" result="Passed" start-time="2018-07-02 15:01:18Z" end-time="2018-07-02 15:01:18Z" duration="0.047242" total="4" passed="4" failed="0" warnings="0" inconclusive="0" skipped="0" asserts="4">
+          <test-case id="0-1014" name="TestSin(0,0)" fullname="NUnitTests.TestSinMethod.TestSin(0,0)" methodname="TestSin" classname="NUnitTests.TestSinMethod" runstate="Runnable" seed="837066549" result="Passed" start-time="2018-07-02 15:01:18Z" end-time="2018-07-02 15:01:18Z" duration="0.035380" asserts="1">
+            <output><![CDATA[Base Initialize
+BaseCleanUp
+]]></output>
+          </test-case>
+          <test-case id="0-1015" name="TestSin(1,0.841470984807897d)" fullname="NUnitTests.TestSinMethod.TestSin(1,0.841470984807897d)" methodname="TestSin" classname="NUnitTests.TestSinMethod" runstate="Runnable" seed="490598888" result="Passed" start-time="2018-07-02 15:01:18Z" end-time="2018-07-02 15:01:18Z" duration="0.000189" asserts="1">
+            <output><![CDATA[Base Initialize
+BaseCleanUp
+]]></output>
+          </test-case>
+          <test-case id="0-1016" name="TestSin(-1,-0.841470984807897d)" fullname="NUnitTests.TestSinMethod.TestSin(-1,-0.841470984807897d)" methodname="TestSin" classname="NUnitTests.TestSinMethod" runstate="Runnable" seed="1304824233" result="Passed" start-time="2018-07-02 15:01:18Z" end-time="2018-07-02 15:01:18Z" duration="0.000145" asserts="1">
+            <output><![CDATA[Base Initialize
+BaseCleanUp
+]]></output>
+          </test-case>
+          <test-case id="0-1017" name="TestSin(1.5d,0.997494986604054d)" fullname="NUnitTests.TestSinMethod.TestSin(1.5d,0.997494986604054d)" methodname="TestSin" classname="NUnitTests.TestSinMethod" runstate="Runnable" seed="473377173" result="Passed" start-time="2018-07-02 15:01:18Z" end-time="2018-07-02 15:01:18Z" duration="0.000144" asserts="1">
+            <output><![CDATA[Base Initialize
+BaseCleanUp
+]]></output>
+          </test-case>
+        </test-suite>
+      </test-suite>
+    </test-suite>
+  </test-suite>
+</test-run>

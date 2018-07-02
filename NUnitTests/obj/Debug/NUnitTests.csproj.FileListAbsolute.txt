@@ -1,0 +1,32 @@
+C:\Users\Karolina_Voloshko\Documents\Visual Studio 2015\Projects\ConsoleApplication1\NUnitTests\bin\Debug\NUnitTests.dll
+C:\Users\Karolina_Voloshko\Documents\Visual Studio 2015\Projects\ConsoleApplication1\NUnitTests\bin\Debug\NUnitTests.pdb
+C:\Users\Karolina_Voloshko\Documents\Visual Studio 2015\Projects\ConsoleApplication1\NUnitTests\bin\Debug\Calculator1.dll
+C:\Users\Karolina_Voloshko\Documents\Visual Studio 2015\Projects\ConsoleApplication1\NUnitTests\bin\Debug\nunit.framework.dll
+C:\Users\Karolina_Voloshko\Documents\Visual Studio 2015\Projects\ConsoleApplication1\NUnitTests\bin\Debug\nunit.framework.pdb
+C:\Users\Karolina_Voloshko\Documents\Visual Studio 2015\Projects\ConsoleApplication1\NUnitTests\bin\Debug\nunit.framework.xml
+C:\Users\Karolina_Voloshko\Documents\Visual Studio 2015\Projects\ConsoleApplication1\NUnitTests\obj\Debug\NUnitTests.csprojResolveAssemblyReference.cache
+C:\Users\Karolina_Voloshko\Documents\Visual Studio 2015\Projects\ConsoleApplication1\NUnitTests\obj\Debug\NUnitTests.dll
+C:\Users\Karolina_Voloshko\Documents\Visual Studio 2015\Projects\ConsoleApplication1\NUnitTests\obj\Debug\NUnitTests.pdb
+D:\ConsoleApplication1\ConsoleApplication1\NUnitTests\bin\Debug\NUnitTests.dll
+D:\ConsoleApplication1\ConsoleApplication1\NUnitTests\bin\Debug\NUnitTests.pdb
+D:\ConsoleApplication1\ConsoleApplication1\NUnitTests\bin\Debug\nunit.framework.dll
+D:\ConsoleApplication1\ConsoleApplication1\NUnitTests\bin\Debug\nunit.framework.pdb
+D:\ConsoleApplication1\ConsoleApplication1\NUnitTests\bin\Debug\nunit.framework.xml
+D:\ConsoleApplication1\ConsoleApplication1\NUnitTests\obj\Debug\NUnitTests.csprojResolveAssemblyReference.cache
+D:\ConsoleApplication1\ConsoleApplication1\NUnitTests\obj\Debug\NUnitTests.dll
+D:\ConsoleApplication1\ConsoleApplication1\NUnitTests\obj\Debug\NUnitTests.pdb
+D:\UnitTests-master-956c1256deebcebdb89b90eac25dbc3eaa740b1d\NUnitTests\bin\Debug\NUnitTests.dll
+D:\UnitTests-master-956c1256deebcebdb89b90eac25dbc3eaa740b1d\NUnitTests\bin\Debug\NUnitTests.pdb
+D:\UnitTests-master-956c1256deebcebdb89b90eac25dbc3eaa740b1d\NUnitTests\bin\Debug\nunit.framework.dll
+D:\UnitTests-master-956c1256deebcebdb89b90eac25dbc3eaa740b1d\NUnitTests\bin\Debug\nunit.framework.pdb
+D:\UnitTests-master-956c1256deebcebdb89b90eac25dbc3eaa740b1d\NUnitTests\bin\Debug\nunit.framework.xml
+D:\UnitTests-master-956c1256deebcebdb89b90eac25dbc3eaa740b1d\NUnitTests\obj\Debug\NUnitTests.csprojAssemblyReference.cache
+D:\UnitTests-master-956c1256deebcebdb89b90eac25dbc3eaa740b1d\NUnitTests\obj\Debug\NUnitTests.csproj.CoreCompileInputs.cache
+D:\UnitTests-master-956c1256deebcebdb89b90eac25dbc3eaa740b1d\NUnitTests\obj\Debug\NUnitTests.csproj.CopyComplete
+D:\UnitTests-master-956c1256deebcebdb89b90eac25dbc3eaa740b1d\NUnitTests\obj\Debug\NUnitTests.dll
+D:\UnitTests-master-956c1256deebcebdb89b90eac25dbc3eaa740b1d\NUnitTests\obj\Debug\NUnitTests.pdb
+D:\UnitTests-master-956c1256deebcebdb89b90eac25dbc3eaa740b1d\NUnitTests\bin\Debug\NUnit3.TestAdapter.dll
+D:\UnitTests-master-956c1256deebcebdb89b90eac25dbc3eaa740b1d\NUnitTests\bin\Debug\NUnit3.TestAdapter.pdb
+D:\UnitTests-master-956c1256deebcebdb89b90eac25dbc3eaa740b1d\NUnitTests\bin\Debug\nunit.engine.dll
+D:\UnitTests-master-956c1256deebcebdb89b90eac25dbc3eaa740b1d\NUnitTests\bin\Debug\nunit.engine.api.dll
+D:\UnitTests-master-956c1256deebcebdb89b90eac25dbc3eaa740b1d\NUnitTests\bin\Debug\Mono.Cecil.dll

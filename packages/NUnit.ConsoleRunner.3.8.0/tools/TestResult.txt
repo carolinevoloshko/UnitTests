@@ -1,0 +1,56 @@
+=> NUnitTests.TestAdditionMethod.TestAddition(1.3d,2.5d,3.8d)
+Base Initialize
+BaseCleanUp
+=> NUnitTests.TestAdditionMethod.TestAddition(1,2,3)
+Base Initialize
+BaseCleanUp
+=> NUnitTests.TestAdditionMethod.TestAddition(-1,-2,-3)
+Base Initialize
+BaseCleanUp
+=> NUnitTests.TestAdditionMethod.TestAddition(-1,2,1)
+Base Initialize
+BaseCleanUp
+=> NUnitTests.TestMultiplyMethod.TestMultiply(1.3d,2.5d,3.25d)
+Base Initialize
+BaseCleanUp
+=> NUnitTests.TestMultiplyMethod.TestMultiply(1,2,2)
+Base Initialize
+BaseCleanUp
+=> NUnitTests.TestMultiplyMethod.TestMultiply(-1,2,-2)
+Base Initialize
+BaseCleanUp
+=> NUnitTests.TestMultiplyMethod.TestMultiply(0,2,0)
+Base Initialize
+BaseCleanUp
+=> NUnitTests.TestMultiplyMethod.TestMultiply(0,-1,0)
+Base Initialize
+BaseCleanUp
+=> NUnitTests.TestSinMethod.TestSin(0,0)
+Base Initialize
+BaseCleanUp
+=> NUnitTests.TestSinMethod.TestSin(1,0.841470984807897d)
+Base Initialize
+BaseCleanUp
+=> NUnitTests.TestSinMethod.TestSin(-1,-0.841470984807897d)
+Base Initialize
+BaseCleanUp
+=> NUnitTests.TestSinMethod.TestSin(1.5d,0.997494986604054d)
+Base Initialize
+BaseCleanUp
+=> NUnitTests.TestSqrtMethod.TestSqrt(9,3)
+Base Initialize
+BaseCleanUp
+=> NUnitTests.TestSqrtMethod.TestSqrt(0,0)
+Base Initialize
+BaseCleanUp
+Base Initialize
+BaseCleanUp
+=> NUnitTests.TestSubMethod.TestSub(10,2,8)
+Base Initialize
+BaseCleanUp
+=> NUnitTests.TestSubMethod.TestSub(-1,-2,1)
+Base Initialize
+BaseCleanUp
+=> NUnitTests.TestSubMethod.TestSub(0,2,-2)
+Base Initialize
+BaseCleanUp

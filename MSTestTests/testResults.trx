@@ -1,0 +1,220 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="a146c3bb-89be-4956-949b-50ddc1144f85" name="Karolina_Voloshko@EPBYMINW6836 2018-06-28 21:11:54" runUser="MINSK\Karolina_Voloshko" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Default Test Settings" id="b6c8299f-fb20-41d1-8ff6-ca2121401c63">
+    <Deployment userDeploymentRoot="D:\ConsoleApplication1\ConsoleApplication1\MSTestTests" useDefaultDeploymentRoot="false" runDeploymentRoot="Karolina_Voloshko_EPBYMINW6836 2018-06-28 21_11_54" />
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+    <Properties />
+  </TestSettings>
+  <Times creation="2018-06-28T21:11:54.5025623+03:00" queuing="2018-06-28T21:11:55.1339589+03:00" start="2018-06-28T21:11:55.2823329+03:00" finish="2018-06-28T21:11:55.6886264+03:00" />
+  <ResultSummary outcome="Failed">
+    <Counters total="15" executed="15" passed="10" error="0" failed="5" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="TestIsNegativeWithPositive" storage="d:\consoleapplication1\consoleapplication1\mstesttests\bin\debug\mstesttests.dll" id="84da083d-fd33-f4be-dc18-ece5b6b43d16">
+      <Execution id="c1bcec41-53fa-44fb-b16d-89b7e6b83ebe" />
+      <TestMethod codeBase="D:/ConsoleApplication1/ConsoleApplication1/MSTestTests/bin/Debug/MSTestTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=14.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="MSTestTests.TestIsNegativeMethod, MSTestTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestIsNegativeWithPositive" />
+    </UnitTest>
+    <UnitTest name="TestPowWithPositive" storage="d:\consoleapplication1\consoleapplication1\mstesttests\bin\debug\mstesttests.dll" id="f2accec8-34c7-4fae-b377-64fa8e25866b">
+      <Execution id="c8dc85ed-c182-4c0a-81c4-afa6d5b6ce02" />
+      <TestMethod codeBase="D:/ConsoleApplication1/ConsoleApplication1/MSTestTests/bin/Debug/MSTestTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=14.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="MSTestTests.TestPowMethod, MSTestTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestPowWithPositive" />
+    </UnitTest>
+    <UnitTest name="TestCosWithPositiveDigit" storage="d:\consoleapplication1\consoleapplication1\mstesttests\bin\debug\mstesttests.dll" id="0526c9c6-2669-3d5f-803f-f8ba38975863">
+      <Execution id="1ca3ad6b-7932-4ddd-8629-63124050eb07" />
+      <TestMethod codeBase="D:/ConsoleApplication1/ConsoleApplication1/MSTestTests/bin/Debug/MSTestTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=14.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="MSTestTests.TestCosMethod, MSTestTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestCosWithPositiveDigit" />
+    </UnitTest>
+    <UnitTest name="TestCosWithZero" storage="d:\consoleapplication1\consoleapplication1\mstesttests\bin\debug\mstesttests.dll" id="197d053b-5d34-1f4a-575f-b96e9787fa09">
+      <Execution id="f6effdf1-4e69-4eac-acfe-1a973c4beda0" />
+      <TestMethod codeBase="D:/ConsoleApplication1/ConsoleApplication1/MSTestTests/bin/Debug/MSTestTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=14.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="MSTestTests.TestCosMethod, MSTestTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestCosWithZero" />
+    </UnitTest>
+    <UnitTest name="TestDivideWithNegative" storage="d:\consoleapplication1\consoleapplication1\mstesttests\bin\debug\mstesttests.dll" id="33c65611-866e-38dc-cde5-e618f644a7c7">
+      <Execution id="580f7b25-d825-4b30-bbf2-b2e47bdcb375" />
+      <TestMethod codeBase="D:/ConsoleApplication1/ConsoleApplication1/MSTestTests/bin/Debug/MSTestTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=14.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="MSTestTests.TestDivideMethod, MSTestTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestDivideWithNegative" />
+    </UnitTest>
+    <UnitTest name="TestIsPositiveWithPositive" storage="d:\consoleapplication1\consoleapplication1\mstesttests\bin\debug\mstesttests.dll" id="165148b6-cc36-92e0-5967-205abb35f1aa">
+      <Execution id="dd229550-532c-4ca1-b7de-c2a7c91018d6" />
+      <TestMethod codeBase="D:/ConsoleApplication1/ConsoleApplication1/MSTestTests/bin/Debug/MSTestTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=14.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="MSTestTests.TestIsPositiveMethod, MSTestTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestIsPositiveWithPositive" />
+    </UnitTest>
+    <UnitTest name="TestIsNegativeWithNegative" storage="d:\consoleapplication1\consoleapplication1\mstesttests\bin\debug\mstesttests.dll" id="396cc517-8c51-0745-0232-8dbbdffd29cf">
+      <Execution id="23d6200c-492f-41ff-b688-5fa190f780c5" />
+      <TestMethod codeBase="D:/ConsoleApplication1/ConsoleApplication1/MSTestTests/bin/Debug/MSTestTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=14.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="MSTestTests.TestIsPositiveMethod, MSTestTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestIsNegativeWithNegative" />
+    </UnitTest>
+    <UnitTest name="TestIsNegativeWithNegative" storage="d:\consoleapplication1\consoleapplication1\mstesttests\bin\debug\mstesttests.dll" id="4c1f4d2d-1073-2456-b1ff-2ba3a7b92425">
+      <Execution id="61029e07-60c7-45e4-ab49-54a2435265fc" />
+      <TestMethod codeBase="D:/ConsoleApplication1/ConsoleApplication1/MSTestTests/bin/Debug/MSTestTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=14.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="MSTestTests.TestIsNegativeMethod, MSTestTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestIsNegativeWithNegative" />
+    </UnitTest>
+    <UnitTest name="TestAbsWithNegative" storage="d:\consoleapplication1\consoleapplication1\mstesttests\bin\debug\mstesttests.dll" id="ba90c2fc-8cb8-65a8-e449-ec0a5a9582eb">
+      <Execution id="3fec634c-0e00-413d-a674-9e87bb6456fb" />
+      <TestMethod codeBase="D:/ConsoleApplication1/ConsoleApplication1/MSTestTests/bin/Debug/MSTestTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=14.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="MSTestTests.TestAbsMethod, MSTestTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestAbsWithNegative" />
+    </UnitTest>
+    <UnitTest name="TestIsPostivieWithZero" storage="d:\consoleapplication1\consoleapplication1\mstesttests\bin\debug\mstesttests.dll" id="e21fab4a-a462-5d6f-761e-31d64fcc809f">
+      <Execution id="c4a35414-edc3-48f1-b3e2-22e3ecd67930" />
+      <TestMethod codeBase="D:/ConsoleApplication1/ConsoleApplication1/MSTestTests/bin/Debug/MSTestTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=14.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="MSTestTests.TestIsPositiveMethod, MSTestTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestIsPostivieWithZero" />
+    </UnitTest>
+    <UnitTest name="TestDivideWithZero" storage="d:\consoleapplication1\consoleapplication1\mstesttests\bin\debug\mstesttests.dll" id="ca80ad60-e0bb-d056-4d32-936fd61a4bc4">
+      <Execution id="71935f69-ab07-4649-a550-e5cfafd19946" />
+      <TestMethod codeBase="D:/ConsoleApplication1/ConsoleApplication1/MSTestTests/bin/Debug/MSTestTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=14.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="MSTestTests.TestDivideMethod, MSTestTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestDivideWithZero" />
+    </UnitTest>
+    <UnitTest name="TestPowWithNegative" storage="d:\consoleapplication1\consoleapplication1\mstesttests\bin\debug\mstesttests.dll" id="397ca86f-b808-c9c1-abad-d5c6839feae3">
+      <Execution id="043f5fb4-a2d7-4241-abd9-9bfe4a0270bb" />
+      <TestMethod codeBase="D:/ConsoleApplication1/ConsoleApplication1/MSTestTests/bin/Debug/MSTestTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=14.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="MSTestTests.TestPowMethod, MSTestTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestPowWithNegative" />
+    </UnitTest>
+    <UnitTest name="TestDivideWithPositive" storage="d:\consoleapplication1\consoleapplication1\mstesttests\bin\debug\mstesttests.dll" id="b4d1a64b-15ea-23e9-f60d-aa2e7c28cbb7">
+      <Execution id="7135eb6e-2fd7-4611-ae72-16d21b907c44" />
+      <TestMethod codeBase="D:/ConsoleApplication1/ConsoleApplication1/MSTestTests/bin/Debug/MSTestTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=14.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="MSTestTests.TestDivideMethod, MSTestTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestDivideWithPositive" />
+    </UnitTest>
+    <UnitTest name="TestIsNegativeWithZero" storage="d:\consoleapplication1\consoleapplication1\mstesttests\bin\debug\mstesttests.dll" id="464fdca1-75a1-1a12-0a45-9838a5d09ba4">
+      <Execution id="7289827d-98a8-4145-a58e-84906587eafe" />
+      <TestMethod codeBase="D:/ConsoleApplication1/ConsoleApplication1/MSTestTests/bin/Debug/MSTestTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=14.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="MSTestTests.TestIsNegativeMethod, MSTestTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestIsNegativeWithZero" />
+    </UnitTest>
+    <UnitTest name="TestAbsWithNull" storage="d:\consoleapplication1\consoleapplication1\mstesttests\bin\debug\mstesttests.dll" id="7b39e4ed-e5f0-bd44-7a39-29e909d27de7">
+      <Execution id="dd776cbb-f712-4e2a-8c39-b16c0c76240a" />
+      <TestMethod codeBase="D:/ConsoleApplication1/ConsoleApplication1/MSTestTests/bin/Debug/MSTestTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=14.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="MSTestTests.TestAbsMethod, MSTestTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestAbsWithNull" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="ba90c2fc-8cb8-65a8-e449-ec0a5a9582eb" executionId="3fec634c-0e00-413d-a674-9e87bb6456fb" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="7b39e4ed-e5f0-bd44-7a39-29e909d27de7" executionId="dd776cbb-f712-4e2a-8c39-b16c0c76240a" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="0526c9c6-2669-3d5f-803f-f8ba38975863" executionId="1ca3ad6b-7932-4ddd-8629-63124050eb07" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="197d053b-5d34-1f4a-575f-b96e9787fa09" executionId="f6effdf1-4e69-4eac-acfe-1a973c4beda0" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="33c65611-866e-38dc-cde5-e618f644a7c7" executionId="580f7b25-d825-4b30-bbf2-b2e47bdcb375" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="b4d1a64b-15ea-23e9-f60d-aa2e7c28cbb7" executionId="7135eb6e-2fd7-4611-ae72-16d21b907c44" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="ca80ad60-e0bb-d056-4d32-936fd61a4bc4" executionId="71935f69-ab07-4649-a550-e5cfafd19946" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="4c1f4d2d-1073-2456-b1ff-2ba3a7b92425" executionId="61029e07-60c7-45e4-ab49-54a2435265fc" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="84da083d-fd33-f4be-dc18-ece5b6b43d16" executionId="c1bcec41-53fa-44fb-b16d-89b7e6b83ebe" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="464fdca1-75a1-1a12-0a45-9838a5d09ba4" executionId="7289827d-98a8-4145-a58e-84906587eafe" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="396cc517-8c51-0745-0232-8dbbdffd29cf" executionId="23d6200c-492f-41ff-b688-5fa190f780c5" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="165148b6-cc36-92e0-5967-205abb35f1aa" executionId="dd229550-532c-4ca1-b7de-c2a7c91018d6" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="e21fab4a-a462-5d6f-761e-31d64fcc809f" executionId="c4a35414-edc3-48f1-b3e2-22e3ecd67930" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="397ca86f-b808-c9c1-abad-d5c6839feae3" executionId="043f5fb4-a2d7-4241-abd9-9bfe4a0270bb" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="f2accec8-34c7-4fae-b377-64fa8e25866b" executionId="c8dc85ed-c182-4c0a-81c4-afa6d5b6ce02" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="3fec634c-0e00-413d-a674-9e87bb6456fb" testId="ba90c2fc-8cb8-65a8-e449-ec0a5a9582eb" testName="TestAbsWithNegative" computerName="EPBYMINW6836" duration="00:00:00.0113702" startTime="2018-06-28T21:11:55.3554617+03:00" endTime="2018-06-28T21:11:55.5900515+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="3fec634c-0e00-413d-a674-9e87bb6456fb">
+      <Output>
+        <StdOut>Start Test
+Test is finished</StdOut>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="dd776cbb-f712-4e2a-8c39-b16c0c76240a" testId="7b39e4ed-e5f0-bd44-7a39-29e909d27de7" testName="TestAbsWithNull" computerName="EPBYMINW6836" duration="00:00:00.0001327" startTime="2018-06-28T21:11:55.5910526+03:00" endTime="2018-06-28T21:11:55.5920536+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="dd776cbb-f712-4e2a-8c39-b16c0c76240a">
+      <Output>
+        <StdOut>Start Test
+Test is finished</StdOut>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="1ca3ad6b-7932-4ddd-8629-63124050eb07" testId="0526c9c6-2669-3d5f-803f-f8ba38975863" testName="TestCosWithPositiveDigit" computerName="EPBYMINW6836" duration="00:00:00.0003771" startTime="2018-06-28T21:11:55.5930553+03:00" endTime="2018-06-28T21:11:55.5950557+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="1ca3ad6b-7932-4ddd-8629-63124050eb07">
+      <Output>
+        <StdOut>Start Test
+Test is finished</StdOut>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="f6effdf1-4e69-4eac-acfe-1a973c4beda0" testId="197d053b-5d34-1f4a-575f-b96e9787fa09" testName="TestCosWithZero" computerName="EPBYMINW6836" duration="00:00:00.0001420" startTime="2018-06-28T21:11:55.5960567+03:00" endTime="2018-06-28T21:11:55.5980581+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="f6effdf1-4e69-4eac-acfe-1a973c4beda0">
+      <Output>
+        <StdOut>Start Test
+Test is finished</StdOut>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="580f7b25-d825-4b30-bbf2-b2e47bdcb375" testId="33c65611-866e-38dc-cde5-e618f644a7c7" testName="TestDivideWithNegative" computerName="EPBYMINW6836" duration="00:00:00.0002838" startTime="2018-06-28T21:11:55.5980581+03:00" endTime="2018-06-28T21:11:55.6000592+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="580f7b25-d825-4b30-bbf2-b2e47bdcb375">
+      <Output>
+        <StdOut>Start Test
+Test is finished</StdOut>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="7135eb6e-2fd7-4611-ae72-16d21b907c44" testId="b4d1a64b-15ea-23e9-f60d-aa2e7c28cbb7" testName="TestDivideWithPositive" computerName="EPBYMINW6836" duration="00:00:00.0001254" startTime="2018-06-28T21:11:55.6010605+03:00" endTime="2018-06-28T21:11:55.6030616+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="7135eb6e-2fd7-4611-ae72-16d21b907c44">
+      <Output>
+        <StdOut>Start Test
+Test is finished</StdOut>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="71935f69-ab07-4649-a550-e5cfafd19946" testId="ca80ad60-e0bb-d056-4d32-936fd61a4bc4" testName="TestDivideWithZero" computerName="EPBYMINW6836" duration="00:00:00.0180675" startTime="2018-06-28T21:11:55.6040620+03:00" endTime="2018-06-28T21:11:55.6230927+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="71935f69-ab07-4649-a550-e5cfafd19946">
+      <Output>
+        <StdOut>Start Test
+Test is finished</StdOut>
+        <ErrorInfo>
+          <Message>Assert.AreEqual failed. Expected:&lt;null (System.String)&gt;. Actual:&lt;∞ (System.Double)&gt;. </Message>
+          <StackTrace>   at MSTestTests.TestDivideMethod.TestDivideWithZero() in C:\Users\Karolina_Voloshko\Documents\Visual Studio 2015\Projects\ConsoleApplication1\MSTestTests\TestDivideMethod.cs:line 47
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="61029e07-60c7-45e4-ab49-54a2435265fc" testId="4c1f4d2d-1073-2456-b1ff-2ba3a7b92425" testName="TestIsNegativeWithNegative" computerName="EPBYMINW6836" duration="00:00:00.0008846" startTime="2018-06-28T21:11:55.6240760+03:00" endTime="2018-06-28T21:11:55.6270782+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="61029e07-60c7-45e4-ab49-54a2435265fc">
+      <Output>
+        <StdOut>Start Test
+Test is finished</StdOut>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="c1bcec41-53fa-44fb-b16d-89b7e6b83ebe" testId="84da083d-fd33-f4be-dc18-ece5b6b43d16" testName="TestIsNegativeWithPositive" computerName="EPBYMINW6836" duration="00:00:00.0001671" startTime="2018-06-28T21:11:55.6270782+03:00" endTime="2018-06-28T21:11:55.6290796+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="c1bcec41-53fa-44fb-b16d-89b7e6b83ebe">
+      <Output>
+        <StdOut>Start Test
+Test is finished</StdOut>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="7289827d-98a8-4145-a58e-84906587eafe" testId="464fdca1-75a1-1a12-0a45-9838a5d09ba4" testName="TestIsNegativeWithZero" computerName="EPBYMINW6836" duration="00:00:00.0015039" startTime="2018-06-28T21:11:55.6300806+03:00" endTime="2018-06-28T21:11:55.6331006+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="7289827d-98a8-4145-a58e-84906587eafe">
+      <Output>
+        <StdOut>Start Test
+Test is finished</StdOut>
+        <ErrorInfo>
+          <Message>Assert.AreEqual failed. Expected:&lt;False&gt;. Actual:&lt;True&gt;. </Message>
+          <StackTrace>   at MSTestTests.TestIsNegativeMethod.TestIsNegativeWithZero() in C:\Users\Karolina_Voloshko\Documents\Visual Studio 2015\Projects\ConsoleApplication1\MSTestTests\TestIsNegativeMethod.cs:line 40
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="23d6200c-492f-41ff-b688-5fa190f780c5" testId="396cc517-8c51-0745-0232-8dbbdffd29cf" testName="TestIsNegativeWithNegative" computerName="EPBYMINW6836" duration="00:00:00.0004121" startTime="2018-06-28T21:11:55.6340879+03:00" endTime="2018-06-28T21:11:55.6360854+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="23d6200c-492f-41ff-b688-5fa190f780c5">
+      <Output>
+        <StdOut>Start Test
+Test is finished</StdOut>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="dd229550-532c-4ca1-b7de-c2a7c91018d6" testId="165148b6-cc36-92e0-5967-205abb35f1aa" testName="TestIsPositiveWithPositive" computerName="EPBYMINW6836" duration="00:00:00.0001748" startTime="2018-06-28T21:11:55.6370855+03:00" endTime="2018-06-28T21:11:55.6380862+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="dd229550-532c-4ca1-b7de-c2a7c91018d6">
+      <Output>
+        <StdOut>Start Test
+Test is finished</StdOut>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="c4a35414-edc3-48f1-b3e2-22e3ecd67930" testId="e21fab4a-a462-5d6f-761e-31d64fcc809f" testName="TestIsPostivieWithZero" computerName="EPBYMINW6836" duration="00:00:00.0014689" startTime="2018-06-28T21:11:55.6395898+03:00" endTime="2018-06-28T21:11:55.6425916+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="c4a35414-edc3-48f1-b3e2-22e3ecd67930">
+      <Output>
+        <StdOut>Start Test
+Test is finished</StdOut>
+        <ErrorInfo>
+          <Message>Assert.AreEqual failed. Expected:&lt;True&gt;. Actual:&lt;False&gt;. </Message>
+          <StackTrace>   at MSTestTests.TestIsPositiveMethod.TestIsPostivieWithZero() in C:\Users\Karolina_Voloshko\Documents\Visual Studio 2015\Projects\ConsoleApplication1\MSTestTests\TestIsPositiveMethod.cs:line 36
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="043f5fb4-a2d7-4241-abd9-9bfe4a0270bb" testId="397ca86f-b808-c9c1-abad-d5c6839feae3" testName="TestPowWithNegative" computerName="EPBYMINW6836" duration="00:00:00.0048139" startTime="2018-06-28T21:11:55.6430926+03:00" endTime="2018-06-28T21:11:55.6495965+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="043f5fb4-a2d7-4241-abd9-9bfe4a0270bb">
+      <Output>
+        <StdOut>Start Test
+Test is finished</StdOut>
+        <ErrorInfo>
+          <Message>Test method MSTestTests.TestPowMethod.TestPowWithNegative threw exception: 
+System.NotFiniteNumberException: Wrong input</Message>
+          <StackTrace>    at CSharpCalculator.Calculator.Pow(Object a, Object b)
+   at MSTestTests.TestPowMethod.TestPowWithNegative() in C:\Users\Karolina_Voloshko\Documents\Visual Studio 2015\Projects\ConsoleApplication1\MSTestTests\TestPowMethod.cs:line 35
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="c8dc85ed-c182-4c0a-81c4-afa6d5b6ce02" testId="f2accec8-34c7-4fae-b377-64fa8e25866b" testName="TestPowWithPositive" computerName="EPBYMINW6836" duration="00:00:00.0016774" startTime="2018-06-28T21:11:55.6505979+03:00" endTime="2018-06-28T21:11:55.6535990+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="c8dc85ed-c182-4c0a-81c4-afa6d5b6ce02">
+      <Output>
+        <StdOut>Start Test
+Test is finished</StdOut>
+        <ErrorInfo>
+          <Message>Test method MSTestTests.TestPowMethod.TestPowWithPositive threw exception: 
+System.NotFiniteNumberException: Wrong input</Message>
+          <StackTrace>    at CSharpCalculator.Calculator.Pow(Object a, Object b)
+   at MSTestTests.TestPowMethod.TestPowWithPositive() in C:\Users\Karolina_Voloshko\Documents\Visual Studio 2015\Projects\ConsoleApplication1\MSTestTests\TestPowMethod.cs:line 22
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+  </Results>
+</TestRun>
